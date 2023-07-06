@@ -19,4 +19,5 @@ Keep in mind this is a shallow model using just countvectorizer and Logistic Reg
 Thats all from me. 
 See you next time. 
 
+https://media1.giphy.com/media/YOYrc49H7XWmpXptTw/200w.gif?cid=82a1493brctd81fnin5bqiydi14eohuot5rkmvw17h8cnxtj&ep=v1_gifs_related&rid=200w.gif&ct=g
 Laters!
