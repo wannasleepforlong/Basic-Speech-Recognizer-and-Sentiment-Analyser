@@ -9,7 +9,7 @@ First of all, you have to download https://www.kaggle.com/datasets/snap/amazon-f
 
 Then, you have to run Speech-to-text.py. This will create two files in the directory- recording.wav and speech.txt.
 
-Finally, run the Analyser.py which will add the sentiment in another line just below the transcribed text.
+Finally, run the Analyser.py which will add the sentiment in another line just below the transcribed text in speech.txt.
 
 Keep in mind this is a shallow model using just countvectorizer and Logistic Regression. Some of the further improvements and interesting things that can be done are:
 1. Use a more complex model, maybe a sequential neural network?
